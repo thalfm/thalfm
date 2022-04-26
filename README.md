@@ -6,7 +6,6 @@
 
 **Talking about me:**
 
-- 💼 Working on [Gran Cursos Online](https://grancursosonline.com.br/)
 - 🎓 Graduating in Information Systems
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
